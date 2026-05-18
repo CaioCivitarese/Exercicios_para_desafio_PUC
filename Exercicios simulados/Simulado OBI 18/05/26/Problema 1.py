@@ -8,3 +8,11 @@
 # quantidade de moedas de 25 centavos
 # Saída
 # Exiba o valor total em reais.
+
+moedas_de_1_real = int(input('Quantas moedas de 1 real você possui: '))
+moedas_de_50_centavos = int(input('Quantas moedas de 50 centavos você tem: '))
+moedas_de_25_centavos = int(input('Quantas moedas de 25 centavos você tem: '))
+
+formula = (1 * moedas_de_1_real) + (0.50 * moedas_de_50_centavos) + (0.25 * moedas_de_25_centavos)
+
+print('O valor que você tem é R$',formula)
