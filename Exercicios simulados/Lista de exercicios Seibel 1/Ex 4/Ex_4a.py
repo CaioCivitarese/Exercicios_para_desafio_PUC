@@ -24,5 +24,6 @@ def tentativas_usuario():
         else:
             print(0)
             print('Você acertou em {} tentativas'.format(tentativas))
+    return        
 
-print(tentativas_usuario())
+tentativas_usuario()

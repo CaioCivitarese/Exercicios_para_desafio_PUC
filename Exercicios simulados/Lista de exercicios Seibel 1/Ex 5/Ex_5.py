@@ -34,7 +34,7 @@ elif escolha_aleatotia == 'tesoura' and escolha_usuario == 'pedra':
     print('O coputador escolheu: ', escolha_aleatotia)
     print('Você venceu!!!')
 
-elif escolha_aleatotia == 'papel' and escolha_usuario == 'pedra':
+elif escolha_aleatotia == 'papel' and escolha_usuario == 'tesoura':
     print('O coputador escolheu: ', escolha_aleatotia)
     print('Você venceu!!!')
 

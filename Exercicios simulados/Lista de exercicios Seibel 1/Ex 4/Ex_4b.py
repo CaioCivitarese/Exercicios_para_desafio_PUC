@@ -10,3 +10,5 @@
 # no máximo 10 tentativas para acertar o número!
 # Organize seu código em funções.
 # Quem é melhor neste jogo de adivinhação: você ou o computador?
+
+
