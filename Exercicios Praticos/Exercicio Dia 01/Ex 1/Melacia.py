@@ -11,4 +11,11 @@
 # Saída
 # Escreva SIM se os meninos conseguirem dividir a melancia em duas partes, cada uma pesando um número par de quilos; e NÃO caso contrário.
 
+W = int(input())
 
+if W / 2 == 1:
+    print('NO')
+elif W % 2 == 0:
+    print('YES')
+else:
+    print('NO')
