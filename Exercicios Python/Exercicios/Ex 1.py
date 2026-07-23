@@ -1,2 +1,4 @@
 # 1 - Crie três variáveis com três tipos de dados diferentes, respeitando
 # sua sintaxe:
+
+
