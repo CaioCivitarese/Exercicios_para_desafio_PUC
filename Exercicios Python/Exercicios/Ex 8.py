@@ -1,3 +1,8 @@
 # 8 - Peça para que o usuário digite um número, em seguida o converta
 # para float, exibindo em tala tanto o número em si quanto seu tipo de
 # dado.
+
+num = int(input("Escreva um numero:"))
+numfloat = float(num)
+
+print(num, numfloat)

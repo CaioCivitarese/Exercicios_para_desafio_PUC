@@ -3,4 +3,4 @@
 
 num1 = 1987
 
-print
+print(num1, type(num1))
