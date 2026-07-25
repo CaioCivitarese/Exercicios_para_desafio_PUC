@@ -1,0 +1,1 @@
+# 20 - Verifique se o valor de num1 é igual ou menor que 100:
