@@ -1,0 +1,2 @@
+# 32  -  Crie  um  programa  que  exibe  em  tela  a  tabuada  de  um
+# determinado número fornecido pelo usuário:
