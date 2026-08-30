@@ -6,8 +6,11 @@
 # T1 = input('Escreva o alfabeto estraterestre aqui: ')
 # T2 = input('Escreva a frase aqui: ')
 
-# lista1 = list(map(str, T1.split('')))
-# lista2 = list(map(str, T2.split('')))
+# lista1 = list(T1)
+# lista2 = list(T2)
+
+# print(lista1)
+# print(lista2)
 
 # media2 = len(lista2) / 2
 
