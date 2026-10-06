@@ -24,4 +24,3 @@ elif ListaFinal == "I I I":
     print('NENHUM')
 else: 
     print('ALGUNS')
-    
