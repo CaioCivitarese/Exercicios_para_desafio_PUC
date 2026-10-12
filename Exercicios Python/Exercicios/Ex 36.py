@@ -2,5 +2,4 @@
 # frase,  verifique  se  esse  conteúdo  digitado  é  um  palíndromo  ou  não,
 # exibindo em tela esse resultado.
 
-def nomeDeUsuario(nome):
-    
+
